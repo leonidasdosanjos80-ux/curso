@@ -1,0 +1,23 @@
+GALANO ASSISTÊNCIA TÉCNICA — SITE
+
+ESTRUTURA
+- index.html: página inicial
+- cursos.html: catálogo com filtros por área
+- servicos.html: serviços de assistência técnica
+- hardware.html: categorias para cotação de peças e periféricos
+- grupos.html: agrupamento de cursos e temas
+- setores.html: áreas do projeto
+- sobre.html: apresentação
+- contato.html: formulário que monta uma mensagem no WhatsApp
+- style.css: identidade visual responsiva
+- app.js: menu mobile, filtros e formulário
+- assets/galano-logo.svg: logo vetorial editável
+
+COMO USAR
+Mantenha os arquivos HTML, style.css, app.js e a pasta assets juntos. Abra index.html no navegador ou publique o conteúdo da pasta curso em uma hospedagem estática.
+
+OBSERVAÇÕES
+- O formulário de contato abre o WhatsApp com uma mensagem pronta; não existe backend nem envio automático.
+- Preços, estoque, disponibilidade e prazos de serviços devem ser confirmados antes de publicar ofertas comerciais.
+- O logo é um SVG criado para este site e pode ser editado.
+- O acesso à Khronos abre https://khronos-esports.pages.dev/
